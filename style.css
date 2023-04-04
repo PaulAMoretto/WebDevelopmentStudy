@@ -17,3 +17,9 @@ a:hover{
 #middle{
     display:inline;
 }
+p{
+    text-align: center;
+}
+.parent{
+    border: red 5px
+}
